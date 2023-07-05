@@ -1,0 +1,12 @@
+/* مكتبة كاملة bootstrap  */
+@import url('../bootstrap/css/bootstrap.rtl.min.css');
+/* مكتبة الايقونات  */
+@import url('../fontawesome/css/all.min.css');
+/* ملف الخطوط  */
+@import url('./fonts.css');
+
+/* ================================    ================================  */
+
+body {
+    font-family: HDar, sans-serif;
+}
